@@ -1,0 +1,26 @@
+[
+    {
+        "Product": "Laptop",
+        "Category": "Electronics",
+        "Price": "55000",
+        "Stock": "10"
+    },
+    {
+        "Product": "Mouse",
+        "Category": "Accessories",
+        "Price": "800",
+        "Stock": "25"
+    },
+    {
+        "Product": "Keyboard",
+        "Category": "Accessories",
+        "Price": "1500",
+        "Stock": "15"
+    },
+    {
+        "Product": "Headphones",
+        "Category": "Electronics",
+        "Price": "2500",
+        "Stock": "20"
+    }
+]
